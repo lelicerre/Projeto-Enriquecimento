@@ -39,7 +39,7 @@ O fluxo de enriquecimento de dados segue a seguinte sequência:
 ## Imagens do funcionamento
 
 ### 1. Arquivos recebidos no Azure Blob via Forms
-![image](https://github.com/user-attachments/assets/9d452bc8-cdd2-4b83-a079-57dd9a6b32e8)
+![image](https://github.com/user-attachments/assets/8a27933a-0498-4a1d-b095-b4f6fd6696f0)
 
 ---
 
