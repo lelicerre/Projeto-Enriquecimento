@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para automatizar o processo de enriquecimento de d
 
 ## ⚠️ Aviso importante
 
-- **Este código foi desenvolvido para rodar exclusivamente no ambiente Databricks** com acesso configurado ao Azure Data Lake e DBFS da Unilever.  
+- **Este código foi desenvolvido para rodar exclusivamente no ambiente Databricks** com acesso configurado ao Azure Data Lake e DBFS.  
 - **Não é compatível com execução em ambientes locais ou IDEs tradicionais** sem adaptações específicas.  
 - O uso de `dbutils`, `spark` e a integração com Azure Blob Storage depende de serviços e permissões disponíveis somente na infraestrutura interna da Unilever.
 
